@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Project Vision
+## Project Vision
 **BIM-AR-Precision** is a high-performance C++ framework built on **Unreal Engine 5** designed to overlay complex BIM (Building Information Modeling) data onto real-world construction sites using **Augmented Reality (AR)**. 
 
 The engine focuses on **millimeter-precision alignment**, allowing engineers and architects to visualize structural elements, MEP systems, and architectural finishes before they are built.
@@ -16,7 +16,7 @@ The engine focuses on **millimeter-precision alignment**, allowing engineers and
 
 ---
 
-## 🚀 Technical Features
+## Technical Features
 
 * **Sub-millimeter Spatial Anchoring:** Custom C++ logic for high-precision drift compensation in AR.
 * **BIM-to-UE5 Pipeline:** Automated data ingestion from IFC/Revit formats into optimized Unreal Static Meshes.
@@ -25,7 +25,7 @@ The engine focuses on **millimeter-precision alignment**, allowing engineers and
 
 ---
 
-## 🏗️ System Architecture (C++ / Blueprint Hybrid)
+## System Architecture (C++ / Blueprint Hybrid)
 
 ```mermaid
 graph TD
