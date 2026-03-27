@@ -2,7 +2,7 @@
 > **Immersive Augmented Reality Engine for Architectural Visualization and BIM Integration**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5.4-black?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5.7-black?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![ARCore/ARKit](https://img.shields.io/badge/AR-Mobile-blueviolet?style=for-the-badge)
 
 ---
